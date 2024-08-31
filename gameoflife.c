@@ -1,7 +1,7 @@
 #include "raylib.h"
 
-#define WINDOW_WIDTH 1200
-#define WINDOW_HEIGHT 800
+#define WINDOW_WIDTH 750
+#define WINDOW_HEIGHT 750
 #define FPS 12
 
 int main() {

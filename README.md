@@ -15,4 +15,4 @@ All other live cells die in the next generation. Similarly, all other dead cells
 
 Press the spacebar to reset the grid with a new random configuration.
 
-![Demo GIF](conway.gif)
+![Demo GIF](conway.png)

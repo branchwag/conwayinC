@@ -14,3 +14,5 @@ Any dead cell with exactly 3 live neighbors becomes a live cell.
 All other live cells die in the next generation. Similarly, all other dead cells stay dead.
 
 Press the spacebar to reset the grid with a new random configuration.
+
+![Demo GIF](conway.gif)
